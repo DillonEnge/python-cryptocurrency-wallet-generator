@@ -3,6 +3,7 @@ from .currencies.bitcoincash import BitcoinCash
 from .currencies.dash import Dash
 from .currencies.ethereum import Ethereum
 from .currencies.litecoin import Litecoin
+from .currencies.garlicoin import Garlicoin
 
 
 currencies = {
@@ -11,6 +12,7 @@ currencies = {
     "Dash": Dash,
     "Ethereum": Ethereum,
     "Litecoin": Litecoin,
+    "Garlicoin": Garlicoin,
 }
 
 

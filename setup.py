@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='cryptocurrency-wallet-generator',
     packages=find_packages(),
-    version='0.0.7',
+    version='0.0.8',
     url='https://github.com/aruseni/python-cryptocurrency-wallet-generator',
     author='aruseni',
     author_email='aruseni.magiku@gmail.com',
