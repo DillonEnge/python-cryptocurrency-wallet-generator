@@ -14,6 +14,6 @@ setup(
     license='Creative Commons Attribution-Noncommercial-Share Alike license',
     install_requires=[
         'ecdsa==0.13',
-        'ethereum==2.1.0',
+        'ethereum>=2.1.0',
     ],
 )
